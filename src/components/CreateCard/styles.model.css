@@ -1,0 +1,36 @@
+.Card{
+    width: 200px;
+    height: fit-content;
+    background: rgba(4, 67, 97, 0.37);
+    border-radius: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.Card img {
+    width: 80px;
+    
+}
+
+.Arrow {
+    font-size: 50px;
+    transform: rotate(120deg)
+}
+
+.Temperature {
+    font-size: 30px;
+    padding: 20px 0;
+}
+
+.Wind {
+    padding-top: 20px;
+}
+
+.WeekDay{
+    font-size: 1.5em;
+    padding-bottom: 15px;
+}
+
+.windSpeed {
+    font-weight: bold;
+}

@@ -1,0 +1,21 @@
+.App {
+    display: flex;
+    flex-direction: column;
+   margin-top: 5px;
+
+}
+
+.Search-Container {
+    display: flex;
+    justify-content: center;
+}
+
+.Cards-container{
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    justify-content: center;
+
+}

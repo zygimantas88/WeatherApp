@@ -1,0 +1,37 @@
+.Form {
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+.Form input {
+    width: 35%;
+    height: 40px;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    padding-left: 10px;
+    
+}
+
+.Form button {
+    width: 8%;
+    height: 40px;
+    background-color: rgba(21, 78, 100, 0.267);
+    border: none;
+    color: rgba(255, 255, 255, 0.671);
+    box-sizing: border-box;
+    outline: none;
+    font-size: 20px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+
+
+}
+.Form button:hover {
+    background-color: rgba(5, 59, 82, 0.637);
+  
+}
